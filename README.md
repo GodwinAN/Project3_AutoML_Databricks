@@ -12,3 +12,6 @@ Over the years, the hotel industry has changed with a majority of bookings now m
 In order to solve this problem, we will use a real life hotel booking dataset to create a customer segmentation analysis in order to gain insights about the customers (and hopefully reasons why they cancel their reservation) while incoorporating auto ML using databricks. We will then build a classification model (including the newly created customer clusters) to predict whether or not a booking will be canceled with the highest accuracy possible.   
 This model will allow hotels to predict if a new booking will be canceled or not, manage their business accordingly, and increase their revenue.
 
+link to databricks : https://adb-8472895444204599.19.azuredatabricks.net/?o=8472895444204599#notebook/3309376123778050/command/3309376123778051
+
+
